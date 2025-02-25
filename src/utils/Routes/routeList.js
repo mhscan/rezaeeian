@@ -8,12 +8,12 @@ export const Routes = {
     route: "/whoweare",
   },
   ourWorks: {
-    des: "our works",
-    route: "/ourworks",
+    des: "work",
+    route: "/work",
   },
   services: {
     des: "services",
-    route: "/services",
+    route: "/casestudy",
   },
   sayHello: {
     des: "say hello",
